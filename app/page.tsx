@@ -27,6 +27,7 @@ export default function Page() {
           <h1 className="text-blue-500">I'm blue!</h1>
         </div>
         <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
+        <p>テスト</p>
           {/* Add Hero Images Here */}
         </div>
       </div>
